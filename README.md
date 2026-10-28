@@ -1,11 +1,9 @@
 # Hi, I'm Joel 👋
 
-💻 Software Developer | Android & Java  
-♿ Building accessible technology  
-🌱 Exploring App Development
+Connect with me : joeljoseph498@gmail.com
 
-I enjoy solving real-world problems through software and building technology that makes a difference.
 
-**Tech Stack:** Java · Android · Python · SQL · Git
+Building accessible technology  
+Exploring App Development
 
-Always learning. Always building.
+
